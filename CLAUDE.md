@@ -29,6 +29,12 @@ The user keeps notes inside their `Leet-code/` project folder, split into two ki
 - If it's a per-problem trick → append a row to the relevant `_notes.md`.
 - If it's a reusable CS concept → create/append `concepts/<topic>.md`.
 - Write notes in Korean with English technical terms, matching the existing files.
+- 
+## Code retention policy
+- The user reviews lightly — notes do the heavy lifting, not the code.
+- Failed/messy attempts (e.g. TLE brute-force): capture the lesson as a one-line row in `_notes.md` FIRST, then delete the code.
+- Keep only ONE clean accepted solution per problem as a concrete reference.
+- Priority of value: takeaway note > final solution > failed attempts (delete).
 
 ## File naming
 - Solution files: `<problem_number>_<problem_slug>.py` using the problem's real name
