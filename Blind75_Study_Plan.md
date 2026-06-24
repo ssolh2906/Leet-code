@@ -15,8 +15,8 @@
 > 핵심: HashMap/HashSet으로 O(n) 조회. 가장 기초, 여기서 자신감 쌓기.
 
 - [v] **#1** Two Sum · Easy · https://leetcode.com/problems/two-sum/
-- [ ] **#217** Contains Duplicate · Easy · https://leetcode.com/problems/contains-duplicate/
-- [ ] **#242** Valid Anagram · Easy · https://leetcode.com/problems/valid-anagram/
+- [v] **#217** Contains Duplicate · Easy · https://leetcode.com/problems/contains-duplicate/
+- [v] **#242** Valid Anagram · Easy · https://leetcode.com/problems/valid-anagram/
 - [ ] **#49** Group Anagrams · Med · https://leetcode.com/problems/group-anagrams/
 - [ ] **#347** Top K Frequent Elements · Med · https://leetcode.com/problems/top-k-frequent-elements/
 - [ ] **#238** Product of Array Except Self · Med · https://leetcode.com/problems/product-of-array-except-self/

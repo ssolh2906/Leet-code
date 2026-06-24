@@ -12,7 +12,7 @@
 | # | 문제 | 핵심 트릭 | 시간 | 다시 볼 것 |
 |---|------|----------|------|-----------|
 | 217 | Contains Duplicate | set에 넣으며 `if n in s` 존재 확인 → 중복 시 True | O(n) | ✅ || 1 | Two Sum | 보수(target-n)를 dict에 저장하며 조회 | O(n) | |
-| 242 | Valid Anagram | Counter 비교 or 정렬 | | |
+| 242 | Valid Anagram | hashing(char count)으로 잘 풀었음 → 맨 앞에 `len` 체크 넣으면 더 좋음. `Counter(s)==Counter(t)` 한 줄도 가능 | O(n) | ✅ |
 | 49 | Group Anagrams | 정렬한 문자열을 key로 dict 그룹핑 | | |
 | 347 | Top K Frequent | Counter + bucket sort | | |
 | 238 | Product Except Self | prefix * suffix, 나눗셈 없이 | | |
