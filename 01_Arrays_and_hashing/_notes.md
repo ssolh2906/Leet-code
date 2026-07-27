@@ -23,3 +23,9 @@
 - [ ] 1차 풀이
 - [ ] 며칠 뒤 아무것도 안 보고 재구현
 - [ ] 친구에게 말로 설명
+
+## 347
+default dict 밸류로 sorting 하기:  
+```
+sorted_counts = sorted(counts.items(), key=lambda x: x[1], reverse=True)
+```
