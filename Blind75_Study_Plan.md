@@ -17,7 +17,7 @@
 - [v] **#1** Two Sum · Easy · https://leetcode.com/problems/two-sum/
 - [v] **#217** Contains Duplicate · Easy · https://leetcode.com/problems/contains-duplicate/
 - [v] **#242** Valid Anagram · Easy · https://leetcode.com/problems/valid-anagram/
-- [ ] **#49** Group Anagrams · Med · https://leetcode.com/problems/group-anagrams/
+- [v] **#49** Group Anagrams · Med · https://leetcode.com/problems/group-anagrams/
 - [ ] **#347** Top K Frequent Elements · Med · https://leetcode.com/problems/top-k-frequent-elements/
 - [ ] **#238** Product of Array Except Self · Med · https://leetcode.com/problems/product-of-array-except-self/
 - [ ] **#271** Encode and Decode Strings · Med 🔒 · https://leetcode.com/problems/encode-and-decode-strings/
