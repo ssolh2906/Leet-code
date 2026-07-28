@@ -18,7 +18,7 @@
 - [v] **#217** Contains Duplicate · Easy · https://leetcode.com/problems/contains-duplicate/
 - [v] **#242** Valid Anagram · Easy · https://leetcode.com/problems/valid-anagram/
 - [v] **#49** Group Anagrams · Med · https://leetcode.com/problems/group-anagrams/
-- [ ] **#347** Top K Frequent Elements · Med · https://leetcode.com/problems/top-k-frequent-elements/
+- [v] **#347** Top K Frequent Elements · Med · https://leetcode.com/problems/top-k-frequent-elements/
 - [ ] **#238** Product of Array Except Self · Med · https://leetcode.com/problems/product-of-array-except-self/
 - [ ] **#271** Encode and Decode Strings · Med 🔒 · https://leetcode.com/problems/encode-and-decode-strings/
 - [ ] **#128** Longest Consecutive Sequence · Med · https://leetcode.com/problems/longest-consecutive-sequence/
@@ -28,7 +28,7 @@
 
 - [ ] **#125** Valid Palindrome · Easy · https://leetcode.com/problems/valid-palindrome/
 - [ ] **#15** 3Sum · Med · https://leetcode.com/problems/3sum/
-- [ ] **#11** Container With Most Water · Med · https://leetcode.com/problems/container-with-most-water/
+- [v] **#11** Container With Most Water · Med · https://leetcode.com/problems/container-with-most-water/
 
 ## 3. Sliding Window (4)
 > 핵심: 윈도우를 늘리고/줄이며 부분배열·부분문자열 최적화.
