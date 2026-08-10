@@ -46,6 +46,7 @@
 ## 5. Binary Search (2)
 > 핵심: 정렬/회전 배열에서 O(log n). 경계 조건 주의.
 
+- [ ] **#704** Binary Search · Easy · (warm-up, template 굳히기) · https://leetcode.com/problems/binary-search/
 - [ ] **#153** Find Minimum in Rotated Sorted Array · Med · https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - [ ] **#33** Search in Rotated Sorted Array · Med · https://leetcode.com/problems/search-in-rotated-sorted-array/
 
