@@ -27,7 +27,7 @@
 > 핵심: 정렬된 배열에서 양끝 포인터를 좁혀가며 O(n).
 
 - [ ] **#125** Valid Palindrome · Easy · https://leetcode.com/problems/valid-palindrome/
-- [ ] **#15** 3Sum · Med · https://leetcode.com/problems/3sum/
+- [v] **#15** 3Sum · Med · https://leetcode.com/problems/3sum/
 - [v] **#11** Container With Most Water · Med · https://leetcode.com/problems/container-with-most-water/
 
 ## 3. Sliding Window (4)
@@ -46,7 +46,7 @@
 ## 5. Binary Search (2)
 > 핵심: 정렬/회전 배열에서 O(log n). 경계 조건 주의.
 
-- [ ] **#704** Binary Search · Easy · (warm-up, template 굳히기) · https://leetcode.com/problems/binary-search/
+- [v] **#704** Binary Search · Easy · (warm-up, template 굳히기) · https://leetcode.com/problems/binary-search/
 - [ ] **#153** Find Minimum in Rotated Sorted Array · Med · https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - [ ] **#33** Search in Rotated Sorted Array · Med · https://leetcode.com/problems/search-in-rotated-sorted-array/
 
