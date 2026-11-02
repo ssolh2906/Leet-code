@@ -1,5 +1,9 @@
 from typing import List
-
+'''
+Possible improvement
+invariant: if array has the target, it locates between left and right.
+-> I can exclude mid on the next step, it will simplify code. 
+'''
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
